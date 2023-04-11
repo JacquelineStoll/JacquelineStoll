@@ -66,7 +66,7 @@
 <!-- End of Languages and Tools -->
 
 ## 🌷 Stats 🌷
-![Jacqueline's GitHub status](https://github-readme-stats.vercel.app/api?username=JacquelineStoll&show_icons=true&theme=omni)
+![Jacqueline's GitHub stats](https://github-readme-stats.vercel.app/api?username=JacquelineStoll&show_icons=true&theme=omni)
 <br />
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JacquelineStoll&layout=compact&theme=omni)](https://github.com/JacquelineStoll/github-readme-stats)
