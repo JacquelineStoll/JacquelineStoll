@@ -1,9 +1,9 @@
 # 🌺 Jacqueline Stoll 🌺
 
 ## 🌷 About Me 🌷
-💻 I'm a Software Developer with a passion for design based in Germany <br />
-🎨 I'm currently working on my portfolio website <br />
-🌱 At the moment I'm learning about UI- and UX-Design as well as improving my programming skills <br />
+💻 I'm a Software Developer and self-taught artist based in Germany <br />
+<!--🎨 I'm currently working on my portfolio website <br /> -->
+<!--🌱 At the moment I'm learning about UI- and UX-Design as well as improving my programming skills <br /> -->
 
 <!-- End of About Me -->
 
